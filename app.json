@@ -1,0 +1,12 @@
+{
+  "name": "TravelOnboardingAp",
+  "displayName": "TravelOnboardingAp",
+  "expo": {
+    "name": "TravelOnboardingAp",
+    "slug": "TravelOnboardingAp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
