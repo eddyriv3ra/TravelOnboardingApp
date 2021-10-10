@@ -11,13 +11,13 @@ To install the application follow the steps below in the console, you need to ha
 Download repo:
 
 ```
-git clone https://github.com/eddyriv3ra/focusTime.git
+git clone https://github.com/eddyriv3ra/TravelOnboardingApp.git
 ```
 
 Change to directory:
 
 ```
-cd focusTime
+cd TravelOnboardingApp
 ```
 
 Install dependencies:
